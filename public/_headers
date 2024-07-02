@@ -1,3 +1,8 @@
+/
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: no-referrer
+  Content-Security-Policy: default-src 'self'; img-src https://*; child-src 'none';
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
